@@ -44,7 +44,7 @@ env:
    - U_EMAIL: liuhangbiaoo@gmail.com
    - GH_REF: github.com/liuhangbiao/vue-travis-cli.git
    - P_BRANCH: gh-pages
-   - GH_TOKEN: 99e1f26061ca6d3e41acc5d094ec495939db9c2c
+   - GH_TOKEN: bc335e68ffc38ca675bc5a400496d50f4ac6f07c
    #ff63c7f074a30df83b068ee951b2072b2d4e798f
    # 99e1f26061ca6d3e41acc5d094ec495939db9c2c
    # git push --force --quiet "https://6bcdf918256557e37b353b84d3ad766044ed66f3@github.com/liuhangbiao/vue-travis-cli.git" master:gh-pages
