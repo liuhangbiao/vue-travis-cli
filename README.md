@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+[![Build Status](https://travis-ci.org/liuhangbiao/vue-travis-cli.svg?branch=master)](https://travis-ci.org/liuhangbiao/vue-travis-cli)
+[![Coverage Status](https://coveralls.io/repos/github/liuhangbiao/vue-travis-cli/badge.svg?branch=master)](https://coveralls.io/github/liuhangbiao/vue-travis-cli?branch=master)
+
+
 You can use the [editor on GitHub](https://github.com/liuhangbiao/vue-travis-cli/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
